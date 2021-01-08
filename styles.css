@@ -81,7 +81,7 @@
     height: 100%;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 758px) {
     .Mosaic {
         flex-direction: column;
     }
